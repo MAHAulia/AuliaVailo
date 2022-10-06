@@ -23,6 +23,6 @@
 <p><a href="https://www.buymeacoffee.com/abdulhaqaulia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdulhaqaulia" /></a></p><br><br>
 
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auliavailo&show_icons=true&locale=en&layout=compact" alt="auliavailo" height="130px/"></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auliavailo&show_icons=true&locale=en&layout=compact" alt="auliavailo" height="130px/"></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auliavailo&show_icons=true&locale=en" alt="auliavailo" height="130px"/></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auliavailo&show_icons=true&locale=en" alt="auliavailo" height="130px"/></p> -->
